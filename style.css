@@ -1,0 +1,49 @@
+html {
+  background-color: rgb(243, 211, 169);
+}
+
+body {
+  background-color: white;
+  border-radius: 15px;
+  border: 2px solid rgb(204, 172, 113);
+  width: 600px;
+  margin: 20px auto;
+  padding: 25px 100px 50px;
+}
+
+img {
+  border-radius: 15px;
+}
+
+h1,
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h2 {
+  color: rgb(153, 108, 78);
+}
+
+img {
+  margin-top: 10px;
+}
+
+.centre {
+  text-align: center;
+}
+
+a {
+  color: rgb(153, 108, 78);
+
+  text-decoration: none;
+}
+
+a:hover {
+  color: cornflowerblue;
+  text-decoration: underline;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
